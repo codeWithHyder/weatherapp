@@ -88,7 +88,7 @@ In order to run this project you need:
 
 ### Setup <a name="setup"></a>
 
-Clone this repository to your desired folder:()
+Clone this repository to your desired folder:(https://github.com/codeWithHyder/weatherapp)
 
 # Usage <a name="usage"></a>
 
@@ -121,7 +121,7 @@ You can deploy this project using: github pages or any host of your choice
 ### 👤 ** Ghulam Hyder Dar**:
 
 - GitHub: [Hyder](https://github.com/codeWithHyder)
-- LinkedIn: [Hyder](https://www.linkedin.com/in/ghulam-hyder-dar)
+- LinkedIn: [Hyder](https://www.linkedin.com/in/hyder3512/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -153,7 +153,8 @@ If you like this project please give it a ⭐️.
 
 - **how will i setup this project in local machine**
 
-  - run the following command in the terminal: git clone ()
+  - run the following command in the terminal: git clone (https://github.com/codeWithHyder/weatherapp)
+  - git clone
 
 - **which code editor should i use**
 
